@@ -4,8 +4,8 @@
   "description": "An experiment by BuyBuild.xyz: $5,000 and a domain, given to one builder with an honest idea.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#0b0f1a",
-  "theme_color": "#0b0f1a",
+  "background_color": "#f7f6f3",
+  "theme_color": "#f7f6f3",
   "icons": [
     {
       "src": "/assets/img/icon-192.png",
